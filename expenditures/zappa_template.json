@@ -9,7 +9,7 @@
         "timeout_seconds": 120,
         "memory_size":128,
         "keep_warm":false,
-	"slim_handler":false,
+	    "slim_handler":false,
         "project_name":"expenditures",
 	    "cors":true,
         "environment_variables": {

@@ -2,6 +2,5 @@ boto3
 firebase_admin
 flask
 flask-cors
-redis
 requests
 zappa
